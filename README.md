@@ -28,3 +28,8 @@ A CLI to make secret handling easier
 - [x] enable
 - [x] delete
 - [x] diff
+
+
+
+## How to install
+- [shell](docs/shell/HOW_TO_INSTALL.md)
