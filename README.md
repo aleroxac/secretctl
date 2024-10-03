@@ -28,6 +28,9 @@ A CLI to make secret handling easier
 - [x] enable
 - [x] delete
 - [x] diff
+- [x] find
+- [x] compare
+- [x] delete-fields
 
 
 
