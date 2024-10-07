@@ -2,18 +2,17 @@
 A CLI to make secret handling easier
 
 
-## Platforms
-- [x] shell
-
-
 
 ## Providers
 - [x] GCP - `Google Cloud Secret Manager`
+- [ ] AWS - `AWS Secrets Manager`
 
 
 
 ## Secret Data Types
 - [x] dotenv
+- [ ] json
+- [ ] yaml
 
 
 
