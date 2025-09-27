@@ -1,0 +1,19 @@
+title: "Custom Role for secretctl-cli"
+description: "Custom Role for secretctl-cli"
+stage: "GA"
+includedPermissions:
+  # Secrets
+  - secretmanager.secrets.list
+  - secretmanager.secrets.get
+  - secretmanager.secrets.create
+  - secretmanager.secrets.update
+  - secretmanager.secrets.delete
+  # - secretmanager.secrets.undelete
+  # Versions
+  - secretmanager.versions.list
+  - secretmanager.versions.get
+  - secretmanager.versions.access
+  - secretmanager.versions.add
+  - secretmanager.versions.enable
+  - secretmanager.versions.disable
+  # - secretmanager.versions.destroy

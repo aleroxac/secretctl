@@ -15,3 +15,6 @@ else
     echo -e "## ----- secretctl\nexport PATH=${PATH}:/opt/secretctl/shell/secretctl" >> "~/.${CURRENT_SHELL}rc"
 fi
 ```
+
+# Setup your credentions depending on your provider
+- [GCP](../../utils/providers/gcp/README.md)
